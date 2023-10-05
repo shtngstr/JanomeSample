@@ -1,0 +1,2 @@
+# JanomeSample
+Janome使用
